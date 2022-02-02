@@ -1,0 +1,6 @@
+
+	* Variables: Es como una caja en la que se guardan los datos para ser utilizados más tarde. Se crean escribiendo var nombre de la variable
+	* Strings: Todas las palabras que lleven comillas (simples o dobles)
+	* Funciones (argumentos, `return`): Es un tipo de objeto que se puede configurar para que haga cosas. Se le pueden agregar reglas que debe obedecer. Argumentos: son preguntas que debe responder el usuario antes de que la función pueda resolverse. Return:Es lo que la función devuelve como resultado.
+	* Declaraciones `if`: Escribimos IF para ejecutar el código según el valor. Dependiendo de cuál sea el valor será el código que devuelva.
+	* Valores booleanos (`true`, `false`): Son datos que significan verdadero o falso.

@@ -1,0 +1,9 @@
+For: Es una declaración que contiene 3 partes:
+1) una variable (sobre esto se va a analizar la condición y repetir el bucle)
+2) una expresión condicional (un conjunto de reglas la cual continuará hasta que sea false)
+3) modificador de variable
+
+&&: Son signos que unen y evalúan dos o más expresiones y devuelve TRUE si estas son verdaderas. De lo contrario, devuelve FALSE
+||: Sirve para conectar dos o más expresiones y si al menos una es verdadera devuelve TRUE, de lo contrario, FALSE.
+!: Significa not y sirve para invertir el resultado evaluado. Por ejemplo, si el resultado de la expresión es TRUE, dará FALSE y viceversa
+
